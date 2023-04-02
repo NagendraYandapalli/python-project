@@ -10,9 +10,8 @@ tasks:
         -Dsonar.projectKey=python-app \
         -Dsonar.sources=. \
         -Dsonar.host.url=http://localhost:9000 \
-        -Dsonar.login=sqp_930ccd300df28dca04feb2621f84865f30e35e14
+        -Dsonar.login=39ce21048b13fe80c7b4e16f75d541f48de36ab9
         
-
-
-
+        
+        
 
