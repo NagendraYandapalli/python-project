@@ -9,7 +9,7 @@ tasks:
        sonar-scanner \
         -Dsonar.projectKey=python-app \
         -Dsonar.sources=. \
-        -Dsonar.host.url=http://localhost:9000 \
+        -Dsonar.host.url=https://b520-49-249-225-158.in.ngrok.io \
         -Dsonar.login=39ce21048b13fe80c7b4e16f75d541f48de36ab9
         
  
